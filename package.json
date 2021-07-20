@@ -15,7 +15,7 @@
     "@react-navigation/native": "^5.1.6",
     "@react-navigation/stack": "^5.2.12",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-numeric-input": "^1.8.3",
     "react-native-safe-area-context": "^0.7.3",
